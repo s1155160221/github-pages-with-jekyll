@@ -1,1 +1,4 @@
-Just a draft
+---
+title: "MY-TITLE"
+date: 2021-04-07
+---
